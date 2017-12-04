@@ -1,0 +1,12 @@
+#ignore all *.class files
+*.class
+bin
+
+#ignore .iml and .idea files generated from IntelliJ IDE
+*.iml
+.idea
+
+#ignore all files import from eclipse IDE
+.classpath
+.project
+/.settings/
