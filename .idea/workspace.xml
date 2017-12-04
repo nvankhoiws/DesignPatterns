@@ -1,12 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dec9de9-d1d6-4351-83da-e176d64d960e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com.udemy.holczerbalazs.solid/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com.udemy.holczerbalazs.solid/Book.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com.udemy.holczerbalazs.solid/BookHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com.udemy.holczerbalazs.solid/BookPersistence.java" />
+    <list default="true" id="aa82ef20-8809-43d1-831c-220e59db8857" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/udemy/balazsholczer/solid/App.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/BuilderPattern/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/BuilderPattern/src/com/balazsholczer/builder/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/BuilderPattern/src/com/balazsholczer/builder/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/CommandPattern/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/CommandPattern/src/com/balazsholczer/command/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/CommandPattern/src/com/balazsholczer/command/Command.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/CommandPattern/src/com/balazsholczer/command/Light.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/CommandPattern/src/com/balazsholczer/command/Switcher.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/CommandPattern/src/com/balazsholczer/command/TurnOffCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/CommandPattern/src/com/balazsholczer/command/TurnOnCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/CommandPatternII/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/CommandPatternII/src/com/balazsholczer/command/Algorithm.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/CommandPatternII/src/com/balazsholczer/command/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/CommandPatternII/src/com/balazsholczer/command/Command.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/CommandPatternII/src/com/balazsholczer/command/Task.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/CommandPatternII/src/com/balazsholczer/command/TaskSolver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/D/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/D/src/com/balazsholczer/solid/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/D/src/com/balazsholczer/solid/Database.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/D/src/com/balazsholczer/solid/DatabaseHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/D/src/com/balazsholczer/solid/MySQLDatabase.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/D/src/com/balazsholczer/solid/OracleDatabase.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/DAO/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/DAO/src/com/balazsholczer/designpatterns/dao/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/DAO/src/com/balazsholczer/designpatterns/dao/Database.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/DAO/src/com/balazsholczer/designpatterns/dao/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/DAO/src/com/balazsholczer/designpatterns/dao/PersonDAO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/DecoratorPattern/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/DecoratorPattern/src/com/balazsholczer/decorator/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/DecoratorPattern/src/com/balazsholczer/decorator/Beverage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/DecoratorPattern/src/com/balazsholczer/decorator/BeverageDecorator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/DecoratorPattern/src/com/balazsholczer/decorator/Milk.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/DecoratorPattern/src/com/balazsholczer/decorator/PlainBeverage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/DecoratorPattern/src/com/balazsholczer/decorator/Sugar.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/FacadePattern/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/FacadePattern/src/com/balazsholczer/facade/Algorithm.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/FacadePattern/src/com/balazsholczer/facade/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/FacadePattern/src/com/balazsholczer/facade/BubbleSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/FacadePattern/src/com/balazsholczer/facade/HeapSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/FacadePattern/src/com/balazsholczer/facade/MergeSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/FacadePattern/src/com/balazsholczer/facade/SortingManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/FactoryPattern/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/FactoryPattern/src/com/balazsholczer/factory/Algorithm.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/FactoryPattern/src/com/balazsholczer/factory/AlgorithmFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/FactoryPattern/src/com/balazsholczer/factory/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/FactoryPattern/src/com/balazsholczer/factory/ShortestPath.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/FactoryPattern/src/com/balazsholczer/factory/SpanningTree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/I/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/I/src/com/balazsholczer/solid/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/I/src/com/balazsholczer/solid/BalancedTree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/I/src/com/balazsholczer/solid/BinarySearchTree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/I/src/com/balazsholczer/solid/IBalancedTree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/I/src/com/balazsholczer/solid/Tree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/IteratorPattern/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/IteratorPattern/Iterator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/IteratorPattern/NameIterator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/IteratorPattern/NameRepository.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/JavaSolidMVC/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/JavaSolidMVC/src/com/balazsholczer/constants/Constants.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/JavaSolidMVC/src/com/balazsholczer/controller/Controller.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/JavaSolidMVC/src/com/balazsholczer/model/Database.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/JavaSolidMVC/src/com/balazsholczer/model/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/JavaSolidMVC/src/com/balazsholczer/view/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/JavaSolidMVC/src/com/balazsholczer/view/FormListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/JavaSolidMVC/src/com/balazsholczer/view/FormPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/JavaSolidMVC/src/com/balazsholczer/view/MainFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/JavaSolidMVC/src/com/balazsholczer/view/TextPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/L/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/L/src/com/balazsholczer/solid/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/L/src/com/balazsholczer/solid/Car.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/L/src/com/balazsholczer/solid/ElectricCar.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/L/src/com/balazsholczer/solid/ElectricVehicle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/L/src/com/balazsholczer/solid/NormalVehicle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/L/src/com/balazsholczer/solid/Vehicle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/NullObjectPattern/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/NullObjectPattern/src/com/balazsholczer/patterns/AbstractCustomer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/NullObjectPattern/src/com/balazsholczer/patterns/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/NullObjectPattern/src/com/balazsholczer/patterns/CustomerFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/NullObjectPattern/src/com/balazsholczer/patterns/Database.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/NullObjectPattern/src/com/balazsholczer/patterns/NullCustomer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/NullObjectPattern/src/com/balazsholczer/patterns/RealCustomer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/O/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/O/src/com/balazsholczer/solid/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/O/src/com/balazsholczer/solid/InsertionSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/O/src/com/balazsholczer/solid/Mergesort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/O/src/com/balazsholczer/solid/Quicksort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/O/src/com/balazsholczer/solid/Sorter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/O/src/com/balazsholczer/solid/SorterManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/ObserverPattern/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/ObserverPattern/src/com/balazsholczer/observer/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/ObserverPattern/src/com/balazsholczer/observer/DataPresenter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/ObserverPattern/src/com/balazsholczer/observer/Observer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/ObserverPattern/src/com/balazsholczer/observer/Subject.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/ObserverPattern/src/com/balazsholczer/observer/WeatherObserver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/ObserverPattern/src/com/balazsholczer/observer/WeatherStation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/S/src/com/balazsholczer/solid/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/S/src/com/balazsholczer/solid/Book.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/S/src/com/balazsholczer/solid/BookHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/S/src/com/balazsholczer/solid/BookPersistence.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/ServiceLocatorPattern/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/ServiceLocatorPattern/src/com/balazsholczer/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/ServiceLocatorPattern/src/com/balazsholczer/Cache.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/ServiceLocatorPattern/src/com/balazsholczer/DatabaseService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/ServiceLocatorPattern/src/com/balazsholczer/InitialContext.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/ServiceLocatorPattern/src/com/balazsholczer/MessagingService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/ServiceLocatorPattern/src/com/balazsholczer/Service.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/ServiceLocatorPattern/src/com/balazsholczer/ServiceLocator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/SingletonPattern/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/SingletonPattern/src/com/balazsholczer/singleton/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/SingletonPattern/src/com/balazsholczer/singleton/SingletonClass.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/StatePattern/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/StatePattern/src/com/balazsholczer/designpaterns/state/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/StatePattern/src/com/balazsholczer/designpaterns/state/Context.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/StatePattern/src/com/balazsholczer/designpaterns/state/OffState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/StatePattern/src/com/balazsholczer/designpaterns/state/OnState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/StatePattern/src/com/balazsholczer/designpaterns/state/State.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/StrategyPattern/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/StrategyPattern/src/com/balazsholczer/strategy/Add.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/StrategyPattern/src/com/balazsholczer/strategy/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/StrategyPattern/src/com/balazsholczer/strategy/Manager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/StrategyPattern/src/com/balazsholczer/strategy/Multiply.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/StrategyPattern/src/com/balazsholczer/strategy/Strategy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/TemplatePattern/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/TemplatePattern/src/com/balazsholczer/template/Algorithm.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/TemplatePattern/src/com/balazsholczer/template/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/TemplatePattern/src/com/balazsholczer/template/BubbleSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/TemplatePattern/src/com/balazsholczer/template/InsertionSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/VisitorPattern/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/VisitorPattern/Chair.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/VisitorPattern/ShoppingCart.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/VisitorPattern/ShoppingCartVisitor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/VisitorPattern/ShoppingItem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/sourcecode/VisitorPattern/Table.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com.udemy.balazsholczer.solid/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com.udemy.balazsholczer.solid/Book.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com.udemy.balazsholczer.solid/BookHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com.udemy.balazsholczer.solid/BookPersistence.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com.udemy.holczerbalazs.solid/test.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPatterns.iml" afterPath="$PROJECT_DIR$/DesignPatterns.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,47 +155,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com.udemy.holczerbalazs.solid/test.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/sourcecode/S/src/com/balazsholczer/solid/App.java">
+        <entry file="file://$PROJECT_DIR$/src/com/udemy/balazsholczer/solid/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/sourcecode/S/src/com/balazsholczer/solid/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#580#581#0" expanded="true" />
-                <element signature="e#615#616#0" expanded="true" />
-                <element signature="e#650#651#0" expanded="true" />
-                <element signature="e#688#689#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com.udemy.holczerbalazs.solid/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+            <state relative-caret-position="68">
+              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -66,24 +169,51 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com.udemy.holczerbalazs.solid/App.java">
+      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/udemy/balazsholczer/solid/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-82">
-              <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="68">
+              <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/udemy/balazsholczer/solid/BookHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookPersistence.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/udemy/balazsholczer/solid/BookPersistence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -96,7 +226,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com.udemy.holczerbalazs.solid/Book.java" />
+        <option value="$PROJECT_DIR$/src/com/udemy/balazsholczer/solid/App.java" />
+        <option value="$PROJECT_DIR$/src/com/udemy/balazsholczer/solid/Book.java" />
+        <option value="$PROJECT_DIR$/src/com/udemy/balazsholczer/solid/BookHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/udemy/balazsholczer/solid/BookPersistence.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -106,12 +239,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1128" />
-    <option name="y" value="-8" />
-    <option name="width" value="1462" />
-    <option name="height" value="580" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -128,7 +255,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,52 +267,25 @@
             <path>
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="sourcecode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="sourcecode" type="462c0819:PsiDirectoryNode" />
-              <item name="BuilderPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com.udemy.holczerbalazs.solid" type="462c0819:PsiDirectoryNode" />
+              <item name="solid" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\STUDY\DesignPatterns\DesignPatterns\src\com.udemy.holczerbalazs.solid" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -198,7 +299,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.balazsholczer.solid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.udemy.balazsholczer.solid.App" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DesignPatterns" />
+      <envs />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -280,56 +400,59 @@
       <properties />
       <listeners />
     </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8dec9de9-d1d6-4351-83da-e176d64d960e" name="Default" comment="" />
-      <created>1512328885803</created>
+      <changelist id="aa82ef20-8809-43d1-831c-220e59db8857" name="Default" comment="" />
+      <created>1512428358177</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1512328885803</updated>
-      <workItem from="1512328890139" duration="758000" />
-      <workItem from="1512399515643" duration="611000" />
-      <workItem from="1512423950747" duration="2353000" />
+      <updated>1512428358177</updated>
+      <workItem from="1512428361584" duration="278000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3722000" />
+    <option name="totallyTimeSpent" value="278000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1272" y="-8" width="1376" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24240121" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,71 +466,50 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com.udemy.holczerbalazs.solid/test.txt">
+    <entry file="file://$PROJECT_DIR$/src/core/com/udemy/timbuchalka/section8/classes/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/udemy/balazsholczer/solid/BookPersistence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.udemy.holczerbalazs.solid/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.udemy.holczerbalazs.solid/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sourcecode/S/src/com/balazsholczer/solid/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.udemy.holczerbalazs.solid/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-82">
-          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sourcecode/S/src/com/balazsholczer/solid/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#650#651#0" expanded="true" />
-            <element signature="e#688#689#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.udemy.holczerbalazs.solid/Book.java">
+    <entry file="file://$PROJECT_DIR$/src/com/udemy/balazsholczer/solid/BookHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/udemy/balazsholczer/solid/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/udemy/balazsholczer/solid/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -415,80 +517,9 @@
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>DesignPatterns</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

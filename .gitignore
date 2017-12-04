@@ -1,6 +1,7 @@
 #ignore all *.class files
 *.class
 bin
+out
 
 #ignore .iml and .idea files generated from IntelliJ IDE
 *.iml
