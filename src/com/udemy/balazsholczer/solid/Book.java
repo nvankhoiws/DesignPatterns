@@ -3,6 +3,7 @@ package com.udemy.balazsholczer.solid;
 public class Book implements BookHandler {
 
 	private BookPersistence bookPersistence;
+	private BookPrinter bookPrinter;
 	private int numOfPages;
 	private String authorName;
 
@@ -10,6 +11,7 @@ public class Book implements BookHandler {
 		this.authorName = authorName;
 		this.numOfPages = numOfPages;
 		this.bookPersistence = new BookPersistence();
+		this.bookPrinter = new BookPrinter();
 	}
 
 	public int getNumOfPages() {
@@ -31,6 +33,11 @@ public class Book implements BookHandler {
 	@Override
 	public void save() {
 		this.bookPersistence.save(this);
+	}
+
+	@Override
+	public void print() {
+		this.bookPrinter.print(this);
 	}
 
 	@Override
