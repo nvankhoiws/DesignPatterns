@@ -1,4 +1,4 @@
-package com.udemy.balazsholczer.solid.o;
+package com.udemy.balazsholczer.solid.opened_closed_principle;
 
 public class InsertionSort extends Sorter {
 

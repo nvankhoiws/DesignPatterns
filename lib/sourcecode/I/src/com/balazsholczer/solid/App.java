@@ -10,7 +10,7 @@ public class App {
 	 * 		What is the motivation?
 	 * 			We can have an abstraction of the system using interfaces
 	 * 
-	 * 			List<String> l = new ArrayList<>();
+	 * 			List<String> liskov_substitution_principle = new ArrayList<>();
 	 * 
 	 * 				Sometimes --> we want to implement that interface but just for the sake
 	 * 					of some methods defined in by that interface

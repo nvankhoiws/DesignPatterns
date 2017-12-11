@@ -1,4 +1,4 @@
-package com.udemy.balazsholczer.solid.s;
+package com.udemy.balazsholczer.solid.single_responsibility_principle;
 
 public class App {
 

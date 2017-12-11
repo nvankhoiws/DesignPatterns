@@ -2,7 +2,28 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/BuilderPattern/BuilderPattern.iml" filepath="$PROJECT_DIR$/lib/sourcecode/BuilderPattern/BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/CommandPattern/CommandPattern.iml" filepath="$PROJECT_DIR$/lib/sourcecode/CommandPattern/CommandPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/CommandPatternII/CommandPatternII.iml" filepath="$PROJECT_DIR$/lib/sourcecode/CommandPatternII/CommandPatternII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/D/D.iml" filepath="$PROJECT_DIR$/lib/sourcecode/D/D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/DAO/DAO.iml" filepath="$PROJECT_DIR$/lib/sourcecode/DAO/DAO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/DecoratorPattern/DecoratorPattern.iml" filepath="$PROJECT_DIR$/lib/sourcecode/DecoratorPattern/DecoratorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/FacadePattern/FacadePattern.iml" filepath="$PROJECT_DIR$/lib/sourcecode/FacadePattern/FacadePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/I/I.iml" filepath="$PROJECT_DIR$/lib/sourcecode/I/I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/JavaSolidMVC/JavaSolidMVC.iml" filepath="$PROJECT_DIR$/lib/sourcecode/JavaSolidMVC/JavaSolidMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/L/L.iml" filepath="$PROJECT_DIR$/lib/sourcecode/L/L.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/NullObjectPattern/NullObjectPattern.iml" filepath="$PROJECT_DIR$/lib/sourcecode/NullObjectPattern/NullObjectPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/O/O.iml" filepath="$PROJECT_DIR$/lib/sourcecode/O/O.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/ObserverPattern/ObserverPattern.iml" filepath="$PROJECT_DIR$/lib/sourcecode/ObserverPattern/ObserverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/S/S.iml" filepath="$PROJECT_DIR$/lib/sourcecode/S/S.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/ServiceLocatorPattern/ServiceLocatorPattern.iml" filepath="$PROJECT_DIR$/lib/sourcecode/ServiceLocatorPattern/ServiceLocatorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/SingletonPattern/SingletonPattern.iml" filepath="$PROJECT_DIR$/lib/sourcecode/SingletonPattern/SingletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/StatePattern/StatePattern.iml" filepath="$PROJECT_DIR$/lib/sourcecode/StatePattern/StatePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/StrategyPattern/StrategyPattern.iml" filepath="$PROJECT_DIR$/lib/sourcecode/StrategyPattern/StrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/TemplatePattern/TemplatePattern.iml" filepath="$PROJECT_DIR$/lib/sourcecode/TemplatePattern/TemplatePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/FactoryPattern/src/com/com.iml" filepath="$PROJECT_DIR$/lib/sourcecode/FactoryPattern/src/com/com.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/sourcecode/sourcecode.iml" filepath="$PROJECT_DIR$/lib/sourcecode/sourcecode.iml" />
     </modules>
   </component>
 </project>

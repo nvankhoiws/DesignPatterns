@@ -1,4 +1,4 @@
-package com.udemy.balazsholczer.solid.o;
+package com.udemy.balazsholczer.solid.opened_closed_principle;
 
 public class App {
 
@@ -14,7 +14,7 @@ public class App {
 	 	 				For example: new functionalities have to be added !!!
 	 	 				
 	 	 		 Those changes in the existing code should be minimized
-	 	 		  WHY? It's assumed that the existing code is already unit tested and
+	 	 		  WHY? It'single_responsibility_principle assumed that the existing code is already unit tested and
 	 	 		   changes in already written code might affect the existing functionality in an unwanted manner.
 	 	 		   
 	 -------------------------------------------------------------------------------------------
