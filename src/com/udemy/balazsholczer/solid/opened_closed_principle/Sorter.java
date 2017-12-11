@@ -4,4 +4,5 @@ public abstract class Sorter {
 	public SortType type;
 
 	public abstract void sort();
+
 }
